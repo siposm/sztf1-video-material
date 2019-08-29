@@ -1,0 +1,7 @@
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\bin\Debug\kavezo_rendszer.exe.config
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\bin\Debug\kavezo_rendszer.exe
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\bin\Debug\kavezo_rendszer.pdb
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\obj\Debug\kavezo_rendszer.csprojAssemblyReference.cache
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\obj\Debug\kavezo_rendszer.csproj.CoreCompileInputs.cache
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\obj\Debug\kavezo_rendszer.exe
+C:\Users\sm\Desktop\kavezo_rendszer\kavezo_rendszer\obj\Debug\kavezo_rendszer.pdb
