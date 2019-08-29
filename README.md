@@ -6,14 +6,12 @@ A Szoftvertervezés és –Fejlesztés I. tárgy videós anyagához tartozó kó
 
 Az anyagok megtalálhatók a http://users.nik.uni-obuda.hu/siposm/ elérhetőségemen is, célszerű azokat is megnézni.
 
----
-
 ## » Tartalom
 
-- traveller exercise code
-- coffee exercise code
-- pacman exercise (test #1) code + testsheet
-- alien exercise (test #2) code + testsheet2.)
+- utazó feladat (OOP gyakorlás)
+- kávézó feladat (metódusok + algoritmizálás gyakorlás)
+- pacman gyakorló 1. zárthelyi
+- alien gyakorló 2. zárthelyi
 
 ---
 
