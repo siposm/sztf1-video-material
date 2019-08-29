@@ -1,0 +1,7 @@
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\bin\Debug\pacman_mintazh.exe.config
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\bin\Debug\pacman_mintazh.exe
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\bin\Debug\pacman_mintazh.pdb
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\obj\Debug\pacman_mintazh.csprojAssemblyReference.cache
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\obj\Debug\pacman_mintazh.csproj.CoreCompileInputs.cache
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\obj\Debug\pacman_mintazh.exe
+C:\Users\sm\Desktop\pacman_mintazh\pacman_mintazh\obj\Debug\pacman_mintazh.pdb
