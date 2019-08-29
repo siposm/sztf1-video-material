@@ -26,3 +26,8 @@ Meglátás / észrevétel / probléma esetén megtalálható vagyok az alábbi e
 	Szoftvertervezés és -Fejlesztés Intézet
 	2019 - 2020 - 1. félév
 	(C)
+
+-
+-
+-
+valami plusz cucc ide
