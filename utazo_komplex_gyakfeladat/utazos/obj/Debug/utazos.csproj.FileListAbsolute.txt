@@ -1,0 +1,7 @@
+C:\Users\sm\Desktop\utazos\utazos\bin\Debug\utazos.exe.config
+C:\Users\sm\Desktop\utazos\utazos\bin\Debug\utazos.exe
+C:\Users\sm\Desktop\utazos\utazos\bin\Debug\utazos.pdb
+C:\Users\sm\Desktop\utazos\utazos\obj\Debug\utazos.csprojAssemblyReference.cache
+C:\Users\sm\Desktop\utazos\utazos\obj\Debug\utazos.csproj.CoreCompileInputs.cache
+C:\Users\sm\Desktop\utazos\utazos\obj\Debug\utazos.exe
+C:\Users\sm\Desktop\utazos\utazos\obj\Debug\utazos.pdb
