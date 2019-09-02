@@ -19,15 +19,10 @@ Meglátás / észrevétel / probléma esetén megtalálható vagyok az alábbi e
 
 ---
 
-	Sipos Miklós
-	Tanszéki Mérnök
-	sipos.miklos@nik.uni-obuda.hu
-	Óbudai Egyetem Neumann János Informatikai Kar
-	Szoftvertervezés és -Fejlesztés Intézet
-	2019 - 2020 - 1. félév
-	(C)
-
--
--
--
-valami plusz cucc ide
+Sipos Miklós\
+Tanszéki Mérnök\
+sipos.miklos@nik.uni-obuda.hu\
+Óbudai Egyetem Neumann János Informatikai Kar\
+Szoftvertervezés és -Fejlesztés Intézet\
+2019 - 2020 - 1. félév\
+(C)
